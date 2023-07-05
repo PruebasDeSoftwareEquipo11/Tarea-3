@@ -3,7 +3,6 @@
 - **Python 3.10** para la creación del programa, instalada desde el sitio oficial de Python.
 - **pytest** para el testing unitario. Para el uso de pytest, es necesario instalarlo usando ```pip install pytest```
 - **pytest-cov** para determinar la cobertura del código. Para el uso de pytest-cov, es necesario instalarlo usando ```pip install pytest-cov```
-- 
 ## Como correr el código:
 ### Para iniciar la tienda:
 - ```python tienda.py``` |  ```python3 tienda.py```
