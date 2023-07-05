@@ -1,4 +1,10 @@
 # Tarea-3
+
+##Integrantes
+- Maximiliano Abarca
+- Christopher Guibout
+- Ignacio Reveco 
+
 ## Instalación y librerias
 - **Python 3.10** para la creación del programa, instalada desde el sitio oficial de Python.
 - **pytest** para el testing unitario. Para el uso de pytest, es necesario instalarlo usando ```pip install pytest```
