@@ -100,6 +100,7 @@ def vender_juego():
             print("Valor Invalido")
             return "ERROR"
         inventario.append([tittle, genere, platform, amount, int(costo * 1.2), costo])
+        importaciones.append([tittle, amount, costo*amount])
 
 def mostrar_inventario():
     print("Inventario:\n")
@@ -119,6 +120,11 @@ def mostrar_inventario():
     for i in compras:
         sum_compras += i[1]
         ganancias += i[2]
+        
+    for i in importaciones:
+        sum_ventas += i[1]
+        perdidas += i[2]
+    print(importaciones)
     print("Estadísticas de la tienda:\n")
     print("Cantidad de juegos vendidos:", sum_compras)
     print("Cantidad de juegos adquiridos:", sum_ventas)
