@@ -1,6 +1,6 @@
 # Tarea-3
 
-- **Python** para la creación del programa.
+- **Python 3.10** para la creación del programa, instalada desde el sitio oficial de Python.
 - **pytest** para el testing unitario. Para el uso de pytest, es necesario instalarlo usando ```pip install pytest```
 - **pytest-cov** para determinar la cobertura del código. Para el uso de pytest-cov, es necesario instalarlo usando ```pip install pytest-cov```
 
