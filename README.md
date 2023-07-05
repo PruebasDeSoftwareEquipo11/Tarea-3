@@ -1,6 +1,6 @@
 # Tarea-3
 
-##Integrantes
+## Integrantes
 - Maximiliano Abarca
 - Christopher Guibout
 - Ignacio Reveco 
